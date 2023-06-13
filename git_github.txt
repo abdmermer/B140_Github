@@ -2,3 +2,6 @@
 1-Calisacagimiz klasoru secip yada yeni bir klasor olusturup,ilgili yere cmd yazip 
 terminali acacagiz.
 2-dizine git init yazariz.
+3-calisma alanina working space denir.
+4-git add komutuyla staging area alanina tasiriz
+5-git commit -m'version adi' ile yazarak version olustururuz
