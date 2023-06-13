@@ -9,3 +9,4 @@ terminali acacagiz.
 7-git log --oneline ile versionlari goruruz.
 8-versionu github'a gondermek icin git push <github repository adresi> komutu/ 
 /git remote add origin<repo adresi>  / git push -u master
+9-githubdaan veri cekebilmek icin git pull <repo adresi>
