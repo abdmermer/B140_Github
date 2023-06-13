@@ -1,0 +1,4 @@
+--Localimizde repo olusturabilmek icin
+1-Calisacagimiz klasoru secip yada yeni bir klasor olusturup,ilgili yere cmd yazip 
+terminali acacagiz.
+2-dizine git init yazariz.
