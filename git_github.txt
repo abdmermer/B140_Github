@@ -5,3 +5,7 @@ terminali acacagiz.
 3-calisma alanina working space denir.
 4-git add komutuyla staging area alanina tasiriz
 5-git commit -m'version adi' ile yazarak version olustururuz
+6-git status ile son durumu goruruz.
+7-git log --oneline ile versionlari goruruz.
+8-versionu github'a gondermek icin git push <github repository adresi> komutu/ 
+/git remote add origin<repo adresi>  / git push -u master
